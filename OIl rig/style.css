@@ -1,0 +1,23 @@
+body {
+    padding: 10%;
+    margin: auto;
+}
+
+header h1 {
+    font-weight: normal; /* Reset font weight */
+}
+
+header h1 strong {
+    font-weight: bold; /* Set font weight to bold for the strong element */
+}
+
+img {
+    width: 450px;
+    height: 450px;
+}
+
+.platforms {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
